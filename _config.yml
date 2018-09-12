@@ -1,13 +1,13 @@
 # Site settings
 title: shanzei Blog
-SEOTitle: 山贼的博客 | shanzei Blog
+SEOTitle: SY网安的博客 | SY Blog
 header-img: img/post-bg-desk.jpg
-email: dengyong88@outlook.com
+email: 4996670@qq.com
 description: "Every failure is leading towards success."
-keyword: "山贼, shanzei Blog, 山贼的博客, shanzei, 贼, iOS, Apple, iPhone"
-url: "https://shanzeii.github.io/shanzei.github.io/"          # your host, for absolute URL
+keyword: "SY, SYWA Blog, SY网安的博客, SY, Y, 黑客, 改分, 爬虫"
+url: "https://shanyangg.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://shanzeii.github.io/shanzei.github.io/" # you code repository
+github_repo: "https://shanyangg.github.io/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
