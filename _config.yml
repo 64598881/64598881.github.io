@@ -18,9 +18,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     http://weibo.com/u/5837949863
+#weibo_username:     
 # zhihu_username:     
-github_username:    shanzeii
+github_username:    
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: false    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: shanzeii.github.io    #仓库名称
-  owner: shanzeii    #github用户名
-  admin: shanzeii
+  clientID:                             #生成的clientID
+  clientSecret:     #生成的clientSecret
+  repo:     #仓库名称
+  owner:     #github用户名
+  admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: 
 
 # Google Analytics
-#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: shanzei.tw               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: ''            # Format: UA-xxxxxx-xx
+#ga_domain:                # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "QQ.0505",
-        href: "http://qm.qq.com/cgi-bin/qm/qr?k=CEI5SLudQ_BMtDt-PaO_EdcvYLDs9whU
+        title: "QQ.山羊",
+        href: "http://qm.qq.com/cgi-bin/qm/qr?k=JnG8f9Abp_l3kZ7RonCyRnu6sJRXxgLb
 "
     }
 ]
