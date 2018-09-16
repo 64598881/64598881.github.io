@@ -1,13 +1,13 @@
 # Site settings
-title: SY Blog
-SEOTitle: SY网安的博客 | SY Blog
+title: BS Blog
+SEOTitle: 黑色镰刀的博客 | BS Blog
 header-img: img/post-bg-desk.jpg
-email: 4996670@qq.com
+email: 64598881@qq.com
 description: "Every failure is leading towards success."
-keyword: "SY, SYWA Blog, SY网安的博客, SY, Y, 黑客, 改分, 爬虫"
-url: "https://shanyangg.github.io/"          # your host, for absolute URL
+keyword: "BS, Black sickle Blog, 黑色镰刀的博客, BS, B, 黑客, 改分, 爬虫"
+url: "https://64598881.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://shanyangg.github.io/" # you code repository
+github_repo: "https://64598881.github.io/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "QQ.山羊",
-        href: "http://qm.qq.com/cgi-bin/qm/qr?k=JnG8f9Abp_l3kZ7RonCyRnu6sJRXxgLb
+        title: "QQ.黑色镰刀",
+        href: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=64598881
 "
     }
 ]
