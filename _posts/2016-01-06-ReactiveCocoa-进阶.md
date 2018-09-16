@@ -3,7 +3,7 @@ layout:     post
 title:      ReactiveCocoa 进阶
 subtitle:   函数式编程框架 ReactiveCocoa 进阶
 date:       2017-01-06
-author:     SY
+author:     BS
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
@@ -1515,4 +1515,4 @@ end
 
 ```
 
->最后附上QQ：4996670
+>最后附上QQ：64598881
